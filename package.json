@@ -20,7 +20,7 @@
   "author": "POA network",
   "license": "GPLv3",
   "dependencies": {
-    "@opengsn/cli": "^2.2.2",
+    "@opengsn/cli": "^2.2.6",
     "@opengsn/contracts": "^2.2.2",
     "@opengsn/provider": "^2.2.2",
     "array-flat-polyfill": "^1.0.1",
